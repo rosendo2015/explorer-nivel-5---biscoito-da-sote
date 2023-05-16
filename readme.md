@@ -4,7 +4,7 @@
 
 > Trail Explorer 
 
-> Project made to meet intermediate level 03 challenge <b>Grid with animations</b> built in Rocketseat's Explorer course :rocket:. 
+> Project made to meet intermediate level 05 challenge <b>fortune cookie</b> built in Rocketseat's Explorer course :rocket:. 
 
 ## :hammer_and_wrench: Technologies
 
